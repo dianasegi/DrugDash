@@ -40,7 +40,7 @@
 
 ##### Dependencies
 
-* laravel collective
+*[ laravel collective](https://.google.com)
 
-* flash
+*[ flash](https://.google.com)
 
