@@ -10,7 +10,7 @@
 
 3. Move into the root directory of the application and run composer install to install all the dependencies for the application.
 
-4. Edit the .env file and add the database username and password to connect to the database.
+4. Edit the .new file and add the database username and password to connect to the database.
 
 5. Run php artisan migrate for the application to run migrations and set up the database structure for you.
 
@@ -28,7 +28,7 @@
 
 * PHP >= 5.6.4
 
-* OpenSSL PHP Extension
+* Open SSL PHP Extension
 
 * PDO PHP Extension
 
